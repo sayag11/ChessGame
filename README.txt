@@ -3,7 +3,7 @@ By Amit Chen and Yehonatan Sayag
 This version runs the Graphical interface only
 Instructions:
 * Unzip release.zip
-* Open ChessProject.exe to play the GUI version.
+* Open ChessProject.exe to play.
 
 Controls: use the mouse to navigate and drag the pieces
 
